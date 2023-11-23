@@ -1,0 +1,21 @@
+.dropdownWrapper {
+  position: relative;
+  /* display: inline-flex; */
+  align-items: center;
+}
+
+.dropdownInput {
+  width: 150px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: .8rem;
+  cursor: pointer;
+}
+
+.dropdownIcon {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  top: 30%;
+}
